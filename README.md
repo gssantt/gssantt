@@ -1,0 +1,3 @@
+- 👋 Eaaaeee, bom, atualmente sou estudante de ADS
+- Estou mt interessado no back-end 
+- Logo menos estarei trazendo meus Projetos para o Repositorio 👋
